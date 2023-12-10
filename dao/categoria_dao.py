@@ -61,3 +61,4 @@ class CategoriaDAO:
         cursor.close()
         conexao.close()
         return cat
+        

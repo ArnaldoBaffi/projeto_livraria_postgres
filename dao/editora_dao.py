@@ -60,3 +60,4 @@ class EditoraDAO:
         cursor.close()
         conexao.close()
         return edt
+        

@@ -39,3 +39,4 @@ def menu_principal():
 if __name__ == '__main__':
     print('Bem-vindo a Livraria SHIFT - Mastering Python!')
     menu_principal()
+    
